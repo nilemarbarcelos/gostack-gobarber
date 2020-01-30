@@ -21,7 +21,7 @@ This project is being currently developed during the [Rocketseat GoStack Bootcam
 1. Clone the repo and cd into the directory
 2. Run `yarn` to fetch the dependencies
 3. Run `yarn dev`
-4. The server is run on port `3333`
+4. The server runs on port `3333`
 
 ## :memo: License
 
