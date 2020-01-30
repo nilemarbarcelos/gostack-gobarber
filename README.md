@@ -25,7 +25,7 @@ This project is being currently developed during the [Rocketseat GoStack Bootcam
 3. Run `yarn dev`
 4. The server is run on port `3333`
 
-## :memo: Licença
+## :memo: License
 
 This project is licensed under the MIT license. See [LICENSE](LICENSE.md) for more details.
 
